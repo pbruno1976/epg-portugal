@@ -84,6 +84,10 @@
   <channel id="FTV HD">
     <display-name lang="pt">FTV HD</display-name>
     <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="BTV1">
+    <display-name lang="pt">BTV1</display-name>
+    <url>http://www.nos.pt</url>
   </channel>
   <programme start="20200620001500 +0100" stop="20200620021500 +0100" channel="Canal 11 HD">
     <title lang="pt">Super Liga Suíça - Young Boys x FC Zurich</title>
@@ -11172,5 +11176,569 @@
   </programme>
   <programme start="20200626235500 +0100" stop="20200627000000 +0100" channel="FTV HD">
     <title lang="pt">F-Parties</title>
+  </programme>
+   <programme start="20200620002900 +0100" stop="20200620020100 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x FC Vermoim - Rep.</title>
+  </programme>
+  <programme start="20200620020100 +0100" stop="20200620033000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - Quinta dos Lombos x SLB - Rep.</title>
+  </programme>
+  <programme start="20200620033000 +0100" stop="20200620040300 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20200620040300 +0100" stop="20200620050400 +0100" channel="BTV1">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20200620050400 +0100" stop="20200620062400 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x PVSK Veolia - Rep.</title>
+  </programme>
+  <programme start="20200620062400 +0100" stop="20200620065300 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200620065300 +0100" stop="20200620075300 +0100" channel="BTV1">
+    <title lang="pt">Futebol Benjamins - SLB x Olivais - Rep.</title>
+  </programme>
+  <programme start="20200620075300 +0100" stop="20200620082600 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20200620082600 +0100" stop="20200620092600 +0100" channel="BTV1">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20200620092600 +0100" stop="20200620095900 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20200620095900 +0100" stop="20200620103600 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200620103600 +0100" stop="20200620104500 +0100" channel="BTV1">
+    <title lang="pt">Fundação Benfica</title>
+  </programme>
+  <programme start="20200620104500 +0100" stop="20200620121000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Póvoa FC - Rep.</title>
+  </programme>
+  <programme start="20200620121000 +0100" stop="20200620133100 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x U. Pinheirense - Rep.</title>
+  </programme>
+  <programme start="20200620133100 +0100" stop="20200620135900 +0100" channel="BTV1">
+    <title lang="pt">Corporate Club</title>
+  </programme>
+  <programme start="20200620135900 +0100" stop="20200620142900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200620142900 +0100" stop="20200620160000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Belenenses - Rep.</title>
+  </programme>
+  <programme start="20200620160000 +0100" stop="20200620163200 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200620163200 +0100" stop="20200620163900 +0100" channel="BTV1">
+    <title lang="pt">As Campeãs</title>
+  </programme>
+  <programme start="20200620163900 +0100" stop="20200620180000 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x PVSK Veolia - Rep.</title>
+  </programme>
+  <programme start="20200620180000 +0100" stop="20200620183200 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200620183200 +0100" stop="20200620195300 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Boavista - Rep.</title>
+  </programme>
+  <programme start="20200620195300 +0100" stop="20200620205900 +0100" channel="BTV1">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20200620205900 +0100" stop="20200620212900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200620212900 +0100" stop="20200620224700 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Rio Ave - Rep.</title>
+  </programme>
+  <programme start="20200620224700 +0100" stop="20200620232900 +0100" channel="BTV1">
+    <title lang="pt">Vitórias e Património</title>
+  </programme>
+  <programme start="20200620232900 +0100" stop="20200621000200 +0100" channel="BTV1">
+    <title lang="pt">Off Road Magazine</title>
+  </programme>
+  <programme start="20200621000200 +0100" stop="20200621003200 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621003200 +0100" stop="20200621010500 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20200621010500 +0100" stop="20200621022400 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x PVSK Veolia - Rep.</title>
+  </programme>
+  <programme start="20200621022400 +0100" stop="20200621025200 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
+  </programme>
+  <programme start="20200621025200 +0100" stop="20200621032200 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621032200 +0100" stop="20200621050200 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - Inter Bratislava x SLB - Rep.</title>
+  </programme>
+  <programme start="20200621050200 +0100" stop="20200621060300 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
+  </programme>
+  <programme start="20200621060300 +0100" stop="20200621063600 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20200621063600 +0100" stop="20200621070600 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621070600 +0100" stop="20200621083000 +0100" channel="BTV1">
+    <title lang="pt">Andebol - SLB x Gwardia Opole - Rep.</title>
+  </programme>
+  <programme start="20200621083000 +0100" stop="20200621085300 +0100" channel="BTV1">
+    <title lang="pt">Reportagem Especial</title>
+  </programme>
+  <programme start="20200621085300 +0100" stop="20200621095900 +0100" channel="BTV1">
+    <title lang="pt">Futebol Benjamins - SLB x Casa Pia - Rep.</title>
+  </programme>
+  <programme start="20200621095900 +0100" stop="20200621102900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621102900 +0100" stop="20200621120000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Sporting - Rep.</title>
+  </programme>
+  <programme start="20200621120000 +0100" stop="20200621133500 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x AD Fundão - Rep.</title>
+  </programme>
+  <programme start="20200621133500 +0100" stop="20200621140700 +0100" channel="BTV1">
+    <title lang="pt">Off Road Magazine</title>
+  </programme>
+  <programme start="20200621140700 +0100" stop="20200621143800 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621143800 +0100" stop="20200621160000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Leões de Porto Salvo - Rep.</title>
+  </programme>
+  <programme start="20200621160000 +0100" stop="20200621163000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200621163000 +0100" stop="20200621181100 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - Inter Bratislava x SLB - Rep.</title>
+  </programme>
+  <programme start="20200621181100 +0100" stop="20200621184300 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200621184300 +0100" stop="20200621202900 +0100" channel="BTV1">
+    <title lang="pt">Futsal - AD Fundão x SLB - Rep.</title>
+  </programme>
+  <programme start="20200621202900 +0100" stop="20200621205900 +0100" channel="BTV1">
+    <title lang="pt">Eu Falo, Tu Discordas</title>
+  </programme>
+  <programme start="20200621205900 +0100" stop="20200621213500 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200621213500 +0100" stop="20200621225600 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x AD Fundão - Rep.</title>
+  </programme>
+  <programme start="20200621225600 +0100" stop="20200621234700 +0100" channel="BTV1">
+    <title lang="pt">Vitórias e Património</title>
+  </programme>
+  <programme start="20200621234700 +0100" stop="20200621235900 +0100" channel="BTV1">
+    <title lang="pt">Salão de Jogos</title>
+  </programme>
+  <programme start="20200621235900 +0100" stop="20200622002900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622002900 +0100" stop="20200622022400 +0100" channel="BTV1">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20200622022400 +0100" stop="20200622040600 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - Inter Bratislava x SLB - Rep.</title>
+  </programme>
+  <programme start="20200622040600 +0100" stop="20200622043600 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622043600 +0100" stop="20200622062100 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x Spirou Charleroi Basket - Rep.</title>
+  </programme>
+  <programme start="20200622062100 +0100" stop="20200622065100 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622065100 +0100" stop="20200622081100 +0100" channel="BTV1">
+    <title lang="pt">Andebol - Gwardia Opole x SLB - Rep.</title>
+  </programme>
+  <programme start="20200622081100 +0100" stop="20200622095900 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
+  </programme>
+  <programme start="20200622095900 +0100" stop="20200622102900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622102900 +0100" stop="20200622115900 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Sporting - Rep.</title>
+  </programme>
+  <programme start="20200622115900 +0100" stop="20200622134900 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x Spirou Charleroi Basket - Rep.</title>
+  </programme>
+  <programme start="20200622134900 +0100" stop="20200622135500 +0100" channel="BTV1">
+    <title lang="pt">As Campeãs</title>
+  </programme>
+  <programme start="20200622135500 +0100" stop="20200622143600 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622143600 +0100" stop="20200622160000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x GD Valverde - Rep.</title>
+  </programme>
+  <programme start="20200622160000 +0100" stop="20200622162900 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200622162900 +0100" stop="20200622170000 +0100" channel="BTV1">
+    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
+  </programme>
+  <programme start="20200622170000 +0100" stop="20200622173100 +0100" channel="BTV1">
+    <title lang="pt">As Regras dos Jogos</title>
+  </programme>
+  <programme start="20200622173100 +0100" stop="20200622180000 +0100" channel="BTV1">
+    <title lang="pt">Corporate Club</title>
+  </programme>
+  <programme start="20200622180000 +0100" stop="20200622183000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200622183000 +0100" stop="20200622193600 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200622193600 +0100" stop="20200622205900 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Belenenses - Rep.</title>
+  </programme>
+  <programme start="20200622205900 +0100" stop="20200622213000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200622213000 +0100" stop="20200622223000 +0100" channel="BTV1">
+    <title lang="pt">Chama Imensa BTV</title>
+  </programme>
+  <programme start="20200622223000 +0100" stop="20200622233000 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200622233000 +0100" stop="20200623000400 +0100" channel="BTV1">
+    <title lang="pt">As Regras dos Jogos</title>
+  </programme>
+  <programme start="20200623000400 +0100" stop="20200623003400 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200623003400 +0100" stop="20200623020600 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x Bakken Bears - Rep.</title>
+  </programme>
+  <programme start="20200623020600 +0100" stop="20200623030700 +0100" channel="BTV1">
+    <title lang="pt">Chama Imensa BTV</title>
+  </programme>
+  <programme start="20200623030700 +0100" stop="20200623033700 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200623033700 +0100" stop="20200623043800 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200623043800 +0100" stop="20200623060700 +0100" channel="BTV1">
+    <title lang="pt">Futsal - Quinta dos Lombos x SLB - Rep.</title>
+  </programme>
+  <programme start="20200623060700 +0100" stop="20200623063700 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200623063700 +0100" stop="20200623073800 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200623073800 +0100" stop="20200623085000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x GC Vilacondense - Rep.</title>
+  </programme>
+  <programme start="20200623085000 +0100" stop="20200623095900 +0100" channel="BTV1">
+    <title lang="pt">Chama Imensa BTV</title>
+  </programme>
+  <programme start="20200623095900 +0100" stop="20200623102900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200623102900 +0100" stop="20200623115400 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Belenenses - Rep.</title>
+  </programme>
+  <programme start="20200623115400 +0100" stop="20200623122700 +0100" channel="BTV1">
+    <title lang="pt">As Regras dos Jogos</title>
+  </programme>
+  <programme start="20200623122700 +0100" stop="20200623133500 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200623133500 +0100" stop="20200623134700 +0100" channel="BTV1">
+    <title lang="pt">Salão de Jogos</title>
+  </programme>
+  <programme start="20200623134700 +0100" stop="20200623142000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200623142000 +0100" stop="20200623145600 +0100" channel="BTV1">
+    <title lang="pt">105 X 68</title>
+  </programme>
+  <programme start="20200623145600 +0100" stop="20200623153000 +0100" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20200623153000 +0100" stop="20200623185500 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Santa Clara - Emissão Especial</title>
+  </programme>
+  <programme start="20200623185500 +0100" stop="20200623211100 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Santa Clara - Direto</title>
+  </programme>
+  <programme start="20200623211100 +0100" stop="20200623223000 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Santa Clara - Emissão Especial</title>
+  </programme>
+  <programme start="20200623223000 +0100" stop="20200623225800 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200623225800 +0100" stop="20200624004300 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Santa Clara - Rep.</title>
+  </programme>
+  <programme start="20200624004300 +0100" stop="20200624011300 +0100" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20200624011300 +0100" stop="20200624014700 +0100" channel="BTV1">
+    <title lang="pt">105 X 68</title>
+  </programme>
+  <programme start="20200624014700 +0100" stop="20200624022000 +0100" channel="BTV1">
+    <title lang="pt">As Regras dos Jogos</title>
+  </programme>
+  <programme start="20200624022000 +0100" stop="20200624032000 +0100" channel="BTV1">
+    <title lang="pt">Segunda Bola</title>
+  </programme>
+  <programme start="20200624032000 +0100" stop="20200624034900 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200624034900 +0100" stop="20200624051600 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - Spirou Charleroi Basket x SLB - Rep.</title>
+  </programme>
+  <programme start="20200624051600 +0100" stop="20200624062400 +0100" channel="BTV1">
+    <title lang="pt">Futebol Benjamins - SLB x CIF - Rep.</title>
+  </programme>
+  <programme start="20200624062400 +0100" stop="20200624065800 +0100" channel="BTV1">
+    <title lang="pt">105 X 68</title>
+  </programme>
+  <programme start="20200624065800 +0100" stop="20200624081400 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Marítimo - Rep.</title>
+  </programme>
+  <programme start="20200624081400 +0100" stop="20200624095900 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Santa Clara - Rep.</title>
+  </programme>
+  <programme start="20200624095900 +0100" stop="20200624102700 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200624102700 +0100" stop="20200624110100 +0100" channel="BTV1">
+    <title lang="pt">105 X 68</title>
+  </programme>
+  <programme start="20200624110100 +0100" stop="20200624113100 +0100" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20200624113100 +0100" stop="20200624140100 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Espinho - Rep.</title>
+  </programme>
+  <programme start="20200624140100 +0100" stop="20200624142900 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200624142900 +0100" stop="20200624154100 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Quinta dos Lombos - Rep.</title>
+  </programme>
+  <programme start="20200624154100 +0100" stop="20200624160000 +0100" channel="BTV1">
+    <title lang="pt">Salão de Jogos</title>
+  </programme>
+  <programme start="20200624160000 +0100" stop="20200624163100 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200624163100 +0100" stop="20200624170100 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
+  </programme>
+  <programme start="20200624170100 +0100" stop="20200624173100 +0100" channel="BTV1">
+    <title lang="pt">Cine BTV</title>
+  </programme>
+  <programme start="20200624173100 +0100" stop="20200624180700 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20200624180700 +0100" stop="20200624185100 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200624185100 +0100" stop="20200624192000 +0100" channel="BTV1">
+    <title lang="pt">Eu Falo, Tu Discordas</title>
+  </programme>
+  <programme start="20200624192000 +0100" stop="20200624205900 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Sporting - Rep.</title>
+  </programme>
+  <programme start="20200624205900 +0100" stop="20200624213400 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200624213400 +0100" stop="20200624223500 +0100" channel="BTV1">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20200624223500 +0100" stop="20200624235900 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x FC Vermoim - Rep.</title>
+  </programme>
+  <programme start="20200624235900 +0100" stop="20200625002900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200625002900 +0100" stop="20200625010000 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
+  </programme>
+  <programme start="20200625010000 +0100" stop="20200625013000 +0100" channel="BTV1">
+    <title lang="pt">Cine BTV</title>
+  </programme>
+  <programme start="20200625013000 +0100" stop="20200625020300 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20200625020300 +0100" stop="20200625023400 +0100" channel="BTV1">
+    <title lang="pt">Eu Falo, Tu Discordas</title>
+  </programme>
+  <programme start="20200625023400 +0100" stop="20200625033400 +0100" channel="BTV1">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20200625033400 +0100" stop="20200625050000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - SLB x Sporting - Rep.</title>
+  </programme>
+  <programme start="20200625050000 +0100" stop="20200625060000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
+  </programme>
+  <programme start="20200625060000 +0100" stop="20200625063000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200625063000 +0100" stop="20200625080000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Sporting - Rep.</title>
+  </programme>
+  <programme start="20200625080000 +0100" stop="20200625093000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
+  </programme>
+  <programme start="20200625093000 +0100" stop="20200625100000 +0100" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20200625100000 +0100" stop="20200625103000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200625103000 +0100" stop="20200625120000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x FC Vermoim - Rep.</title>
+  </programme>
+  <programme start="20200625120000 +0100" stop="20200625133000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x V. Guimarães - Rep.</title>
+  </programme>
+  <programme start="20200625133000 +0100" stop="20200625140000 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
+  </programme>
+  <programme start="20200625140000 +0100" stop="20200625143000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200625143000 +0100" stop="20200625150000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20200625150000 +0100" stop="20200625153000 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
+  </programme>
+  <programme start="20200625153000 +0100" stop="20200625160000 +0100" channel="BTV1">
+    <title lang="pt">Eu Falo, Tu Discordas</title>
+  </programme>
+  <programme start="20200625160000 +0100" stop="20200625163000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200625163000 +0100" stop="20200625180000 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - SLB x Bakken Bears - Rep.</title>
+  </programme>
+  <programme start="20200625180000 +0100" stop="20200625183000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200625183000 +0100" stop="20200625190000 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
+  </programme>
+  <programme start="20200625190000 +0100" stop="20200625200000 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
+  </programme>
+  <programme start="20200625200000 +0100" stop="20200625210000 +0100" channel="BTV1">
+    <title lang="pt">As Lanças Apontadas</title>
+  </programme>
+  <programme start="20200625210000 +0100" stop="20200625213000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200625213000 +0100" stop="20200625223000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
+  </programme>
+  <programme start="20200625223000 +0100" stop="20200625230000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20200625230000 +0100" stop="20200625233000 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
+  </programme>
+  <programme start="20200625233000 +0100" stop="20200626000000 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
+  </programme>
+  <programme start="20200626000000 +0100" stop="20200626003000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626003000 +0100" stop="20200626013000 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
+  </programme>
+  <programme start="20200626013000 +0100" stop="20200626030000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
+  </programme>
+  <programme start="20200626030000 +0100" stop="20200626033000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626033000 +0100" stop="20200626043000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
+  </programme>
+  <programme start="20200626043000 +0100" stop="20200626060000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x GC Vilacondense - Rep.</title>
+  </programme>
+  <programme start="20200626060000 +0100" stop="20200626063000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626063000 +0100" stop="20200626070000 +0100" channel="BTV1">
+    <title lang="pt">As Regras dos Jogos</title>
+  </programme>
+  <programme start="20200626070000 +0100" stop="20200626073000 +0100" channel="BTV1">
+    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
+  </programme>
+  <programme start="20200626073000 +0100" stop="20200626080000 +0100" channel="BTV1">
+    <title lang="pt">Eu Falo, Tu Discordas</title>
+  </programme>
+  <programme start="20200626080000 +0100" stop="20200626090000 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
+  </programme>
+  <programme start="20200626090000 +0100" stop="20200626100000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
+  </programme>
+  <programme start="20200626100000 +0100" stop="20200626103000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626103000 +0100" stop="20200626120000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Novasemente - Rep.</title>
+  </programme>
+  <programme start="20200626120000 +0100" stop="20200626133000 +0100" channel="BTV1">
+    <title lang="pt">Voleibol - SLB x Castêlo Maia - Rep.</title>
+  </programme>
+  <programme start="20200626133000 +0100" stop="20200626140000 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
+  </programme>
+  <programme start="20200626140000 +0100" stop="20200626143000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626143000 +0100" stop="20200626160000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Sta. Luzia - Rep.</title>
+  </programme>
+  <programme start="20200626160000 +0100" stop="20200626163000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200626163000 +0100" stop="20200626170000 +0100" channel="BTV1">
+    <title lang="pt">Aqui Mando Eu</title>
+  </programme>
+  <programme start="20200626170000 +0100" stop="20200626180000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
+  </programme>
+  <programme start="20200626180000 +0100" stop="20200626183000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20200626183000 +0100" stop="20200626190000 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20200626190000 +0100" stop="20200626203000 +0100" channel="BTV1">
+    <title lang="pt">Basquetebol - Spirou Charleroi Basket x SLB - Rep.</title>
+  </programme>
+  <programme start="20200626203000 +0100" stop="20200626210000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20200626210000 +0100" stop="20200626213000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20200626213000 +0100" stop="20200626223000 +0100" channel="BTV1">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20200626223000 +0100" stop="20200627000000 +0100" channel="BTV1">
+    <title lang="pt">Futsal Feminino - SLB x Novasemente - Rep.</title>
   </programme>
 </tv>
